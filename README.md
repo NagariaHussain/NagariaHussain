@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on ...
+
+* Advent of code, 2020
+* My Portfolio Website 
+
+- 🌱 I’m currently learning ...
+
+* C++
+* MySQL
+* NodeJS with Express
+* Database Design
+* Object Oriented Programming
