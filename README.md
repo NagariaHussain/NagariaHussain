@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on ...
+## 🔭 I’m currently working on ...
 
 * Advent of code, 2020
 * My Portfolio Website 
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning ...
 
 * C++
 * MySQL
