@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## 🔭 I’m currently working on ...
 
-* Advent of code, 2020
+* Answering Python dountd on Udemy QA
+* Advent of code, [2020](https://adventofcode.com/)
+* Creating Python Programming Puzzles for [over 250K students](https://www.udemy.com/course/python-the-complete-python-developer-course/)
 * My Portfolio Website 
 
 ## 🌱 I’m currently learning ...
