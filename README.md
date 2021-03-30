@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
-* Answering Python dounts on Udemy QA
-* Advent of code, [2020](https://adventofcode.com/)
-* Creating Python Programming Puzzles for [over 250K students](https://www.udemy.com/course/python-the-complete-python-developer-course/)
-* My Portfolio Website 
+* Building OSS at Frappe
+* Answering Python doubts on Udemy
+* Creating Python Programming Puzzles for [over 290K students](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+* Writing blogs at [hussain.codes](https://hussain.codes)
 
 ## 🌱 I’m currently learning ...
 
