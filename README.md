@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 
-* C++
-* MySQL
-* NodeJS with Express
+* JavaScript (always...)
+* VueJS
+* Containers
+* Software Architecture
 * Database Design
 * Object Oriented Programming
