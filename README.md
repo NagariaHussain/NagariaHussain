@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
-* Building OSS at Frappe
+* Building FOSS at Frappe
 * Answering Python doubts on Udemy
-* Creating Python Programming Puzzles for [over 290K students](https://www.udemy.com/course/python-the-complete-python-developer-course/)
+* Creating Python Programming Puzzles for [over 300K students](https://www.udemy.com/course/python-the-complete-python-developer-course/)
 * Writing blogs at [hussain.codes](https://hussain.codes)
 
 ## 🌱 I’m currently learning ...
@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 * VueJS
 * Containers
 * Software Architecture
-* Database Design
-* Object Oriented Programming
+
