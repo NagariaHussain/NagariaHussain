@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m currently working on ...
+## 🔭 I’m currently building ...
 
-* Building FOSS at Frappe
-* Answering Python doubts on Udemy
-* Creating Python Programming Puzzles for [over 300K students](https://www.udemy.com/course/python-the-complete-python-developer-course/)
-* Writing blogs at [hussain.codes](https://hussain.codes)
+... FOSS @ frappe.io
 
 ## 🌱 I’m currently learning ...
 
-* JavaScript (always...)
-* Containers
-* Software Architecture
+... always.
 
