@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
 
-... always.
+... writing, softwares and a lot of other stuff.
 
